@@ -11,11 +11,11 @@ How to use
 
 Install the packages:
 
-	% go get github.com/petar/GoMNIST
+	% go get github.com/pollend/GoMNIST
 
 Import them in your code as
 
-	% import "github.com/petar/GoMNIST"
+	% import "github.com/pollend/GoMNIST"
 
 Load the MNIST training and testing data sets into memory using
 
