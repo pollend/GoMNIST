@@ -1,5 +1,6 @@
 GoMNIST
 =======
+[![Build Status](https://travis-ci.org/pollend/GoMNIST.svg?branch=master)](https://travis-ci.org/pollend/GoMNIST)
 
 GoMNIST is a Go driver for reading Yann LeCun's MNIST dataset of handwritten digits
 
